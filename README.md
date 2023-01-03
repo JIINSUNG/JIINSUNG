@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&height=300&text=React&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&height=200&text=React&fontAlign=70&stroke=00FF00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIINSUNG)](https://github.com/anuraghazra/github-readme-stats)
