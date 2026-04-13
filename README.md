@@ -70,15 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIINSUNG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="JIINSUNG's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIINSUNG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 Contact
 - **Email**: (crm03008@gmail.com)
 - **Velog**: [https://velog.io/@crm03008/](https://velog.io/@crm03008/)
