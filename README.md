@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=In-sung%20Ji&subtitle=Front-End%20Engineer%20|%20Optimization%20Enthusiast&fontSize=50&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Frontend&subtitle=Front-End%20Engineer%20|%20Optimization%20Enthusiast&fontSize=50&fontColor=fff" />
 </p>
 
 ## 🚀 About Me
@@ -51,10 +51,10 @@
 ### 🚦 큐잉 (QQueuing) | 2024.04 ~ 2024.05
 - URL 등록만으로 적용 가능한 **오픈소스 대기열 시스템**. 실시간 모니터링 지표 제공.
 
-### 🔍 파인디어 (Findier) | 2024.02 ~ 2024.04
+### 🔍 파인디어 (Findear) | 2024.02 ~ 2024.04
 - AI 기반 습득물 등록 및 **유사 물품 자동 매칭 알림** 서비스 개발.
 
-### 💌 Secreto (시크레토) | 2024.01 ~ 2024.02
+### 💌 Secreto (시크리토) | 2024.01 ~ 2024.02
 - 실시간 익명 채팅 기반 온라인 마니또 서비스. **Axios 인터셉터 기반 인증 처리**.
 
 ### 🤝 단짠단짠 (DZZDZZ) | 2023.01 ~ 2023.09
